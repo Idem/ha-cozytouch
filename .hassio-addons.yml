@@ -1,0 +1,6 @@
+---
+channel: stable
+addons:
+  cozytouch:
+    repository: Idem/ha-cozytouch
+    target: custom_components/cozytouch
